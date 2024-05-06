@@ -34,4 +34,5 @@ Results
 
 Results of project is discussed in medium post.
 Acknowledgments
-Dataset:[Social Media Sentiments Analysis](https://medium.com/@murad.aghamirzayevv/social-media-analysis-617b3c30262d)
+Medium link:[Social Media Sentiments Analysis] (https://medium.com/@murad.aghamirzayevv/social-media-analysis-617b3c30262d)
+[Dataset link] (https://www.kaggle.com/datasets/kashishparmar02/social-media-sentiments-analysis-dataset)
